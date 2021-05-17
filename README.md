@@ -4,7 +4,7 @@ Custom macOS application used to instal printers, drivers and print presets. A t
 Xcode project is in CompassPrinters. This is no longer in development as I am not currently managing large amounts of printers and printer installs. Used with macOS 10.12 Sierra to 10.14 Catalina. Not tested or used with macOS 11, Big Sur.
 
 
-![User Interface](https://github.com/greentbc/PrinterTool/blob/master/images/NYCnoinstall.jpg?raw=true)
+![User Interface](https://github.com/greentbc/PrinterTool/blob/main/images/NYCnoinstall.jpg?raw=true)
 
 
 Features:
